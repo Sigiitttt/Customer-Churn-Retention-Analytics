@@ -1,0 +1,2 @@
+valid_customers,churned_customers,retained_customers,observed_churn_rate_pct,avg_tenure_churned_months,avg_tenure_retained_months,monthly_charges_churn_group,avg_monthly_charges_churned,avg_monthly_charges_retained
+7043,1869,5174,26.54,17.98,37.57,139130.85,74.44,61.27

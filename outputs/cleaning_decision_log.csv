@@ -1,0 +1,5 @@
+issue,actual_count,decision,rationale
+Duplicate customer IDs,0,No action needed,customer_id is unique; no row dropped.
+Blank TotalCharges,11,Keep rows; leave total_charges as missing (no imputation),"All blank rows have tenure = 0 (new customers not yet billed). Churn label is valid, so they stay in churn KPIs. total_charges is not used in any KPI."
+Invalid churn categories,0,No action needed,Only Yes/No present.
+Invalid tenure / charge values,0,No action needed,"tenure within 0-72, monthly_charges > 0."

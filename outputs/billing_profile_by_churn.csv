@@ -1,0 +1,3 @@
+churn,customers,avg_tenure_months,median_tenure_months,avg_monthly_charges,median_monthly_charges,sum_monthly_charges
+No,5174,37.57,38.0,61.27,64.43,316985.75
+Yes,1869,17.98,10.0,74.44,79.65,139130.85

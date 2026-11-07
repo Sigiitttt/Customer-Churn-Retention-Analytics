@@ -1,0 +1,14 @@
+# Data mentah & hasil olahan lokal (unduh/buat ulang lewat notebook)
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/README.md
+
+# Gambar referensi desain di root (bukan bagian proyek)
+/*.png
+
+.ipynb_checkpoints/
+__pycache__/
+.env
+.DS_Store
+.streamlit/secrets.toml

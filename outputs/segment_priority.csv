@@ -1,0 +1,9 @@
+dimension,segment_value,customers,churned_customers,churn_rate_pct,share_of_all_churned_pct,lift_vs_overall
+tenure_band,00-06 months,1481,784,52.94,41.95,1.99
+payment_method,Electronic check,2365,1071,45.29,57.3,1.71
+contract,Month-to-month,3875,1655,42.71,88.55,1.61
+internet_service,Fiber optic,3096,1297,41.89,69.4,1.58
+online_security,No,3498,1461,41.77,78.17,1.57
+senior_citizen_label,Yes,1142,476,41.68,25.47,1.57
+tech_support,No,3473,1446,41.64,77.37,1.57
+online_backup,No,3088,1233,39.93,65.97,1.5

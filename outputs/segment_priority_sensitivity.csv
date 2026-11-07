@@ -1,0 +1,5 @@
+min_size,top5
+100,tenure_band=00-06 months | payment_method=Electronic check | contract=Month-to-month | internet_service=Fiber optic | online_security=No
+300,tenure_band=00-06 months | payment_method=Electronic check | contract=Month-to-month | internet_service=Fiber optic | online_security=No
+500,tenure_band=00-06 months | payment_method=Electronic check | contract=Month-to-month | internet_service=Fiber optic | online_security=No
+1000,tenure_band=00-06 months | payment_method=Electronic check | contract=Month-to-month | internet_service=Fiber optic | online_security=No

@@ -1,0 +1,7 @@
+check,result
+row_count,7043
+column_count,21
+duplicate_customer_id_rows,0
+blank_or_missing_customer_id,0
+missing_total_charges_after_numeric_conversion,11
+invalid_or_missing_churn_label,0
